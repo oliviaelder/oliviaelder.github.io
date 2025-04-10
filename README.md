@@ -1,4 +1,4 @@
-# Olivia Elder's CapStone Projects   (oliviaelder.github.io)
+# Olivia Elder's CapStone Projects  
 
 # My Portfolio
 

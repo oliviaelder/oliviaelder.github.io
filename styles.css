@@ -1,0 +1,19 @@
+/* Style the project links */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+  color: #db9825; /* Your preferred color */
+  font-size: 1.2rem;
+}
+
+a:hover {
+  color: #c1761e; /* Change color when hovered */
+}

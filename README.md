@@ -2,6 +2,7 @@
 
 ## My Portfolio Projects:
 - **Project 1: System Analysis : Chris Lynch Fencing**
+ **Hello**
     - [Project 1: Description](https://github.com/oliviaelder/Project-1)
       
 - **Project 2: Habit Tracker** 
